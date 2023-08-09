@@ -7,33 +7,34 @@ const meta = {
 const introdata = {
     title: "I’m John Doe",
     animated: {
-        first: "I love coding",
-        second: "Full stack devloper",
-        third: "Python and Tensorflow",
+        first: "Part time programmer",
+        second: "Full time student",
+        third: "Full stack devloper",
+        fourth: "Python and Tensorflow",
     },
     description: "I’m Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "src/assets/images/pfp_use.5f036f1b2eda1968e93c.png",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About me",
+    aboutme: "I'm a Junior at Loyola University Chicago, pursuing a double major in Cybersecurity and Psychology. I'm incredibly passionate about exploring the intricate relationshipbetween technology and human behavior. While my academic focus lies in cybersecurity and psychology, my curiosity and eagerness to learn haveled me to delve into the world of web development. As a soon-to-be full-stack web developer, I have honed my skills in Python and gained valuable experience in creating robust and dynamic web applications and other programs. I believe that combining my knowledge of cybersecurity and psychology with my web development expertise allows me to approach projects from a unique perspective, ensuring that user experiences are not only seamless and visually appealing but also secure and tailored to human needs. This portfolio website serves as a testament to my journey so far, showcasing the projects I've worked on and the skills I've acquired.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Northwestern University Full Stack Bootcamp",
+        where: "Chicago, IL",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "IT Support Specialist",
+        where: "Loyola University Chicago",
+        date: "2021-2023",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    // {
+    //     jobtitle: "Designer of week",
+    //     where: "ALquds",
+    //     date: "2019",
+    // },
 ];
 
 const skills = [{
@@ -69,11 +70,11 @@ const services = [{
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Mobile Apps",
+        title: "Pyhton Development",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Wordpress Design",
+        title: "Backend Development",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -142,9 +143,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "drewjordan404@gmail.com",
+    YOUR_FONE: "(314)-660-1335",
+    description: "Please feel free to contact me if you have any questions or would like to work together on a project. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -153,10 +154,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/drewjordan414",
+    facebook: "https://www.facebook.com/profile.php?id=100004869136649",
+    linkedin: "https://www.linkedin.com/in/drew-jordan-103993221/",
+    twitter: "https://twitter.com/drewjordan414",
 };
 export {
     meta,
