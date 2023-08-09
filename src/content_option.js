@@ -13,7 +13,7 @@ const introdata = {
         fourth: "Python and Tensorflow",
     },
     description: "I’m Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
-    your_img_url: "src/assets/images/pfp_use.5f036f1b2eda1968e93c.png",
+    your_img_url: "https://drive.google.com/file/d/1AZg0AXkGnIn44fY_Z9O8SbkJ77O64fNa/view?usp=sharing",
 };
 
 const dataabout = {
