@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "Part time programmer",
         second: "Full time student",
-        third: "Full stack devloper",
+        third: "Full stack developer",
         fourth: "Python and Tensorflow",
     },
     description: "I’m Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
