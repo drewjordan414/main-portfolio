@@ -1,17 +1,17 @@
-const logotext = "JOHN";
+const logotext = "Drew";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Drew Jordan",
+    description: "I’m Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
 };
 
 const introdata = {
     title: "I’m John Doe",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "Full stack devloper",
+        third: "Python and Tensorflow",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I’m Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -41,7 +41,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Flask",
         value: 85,
     },
     {
@@ -50,12 +50,18 @@ const skills = [{
     },
     {
         name: "React",
-        value: 60,
+        value: 80,
     },
     {
         name: "Jquery",
         value: 85,
     },
+    {
+        name: "Linux",
+        value: 90,
+    },
+    
+
 ];
 
 const services = [{
