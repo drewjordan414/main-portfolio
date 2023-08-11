@@ -1,3 +1,8 @@
+import gtime from "./assets/images/gtimeplanner.e3ee245b2567653384ad.png";
+import project2 from "./assets/images/project2.2e277e77e2343425bda7.png";
+
+
+
 const logotext = "Drew";
 const meta = {
     title: "Drew Jordan",
@@ -65,31 +70,33 @@ const skills = [{
 
 ];
 
-const services = [{
+const services = [
+    {
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Designing intuitive user interfaces that ensure a seamless user experience. Combining aesthetics with functionality to create user-centric designs that resonate with your target audience.",
     },
     {
-        title: "Pyhton Development",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Python Development",
+        description: "Building robust and scalable applications using Python. Leveraging the flexibility and power of Python to create both web and desktop applications tailored to meet specific needs.",
     },
     {
         title: "Backend Development",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Creating secure, efficient, and scalable server-side solutions. Designing APIs, managing databases, and ensuring smooth communication between the frontend and backend systems.",
     },
 ];
 
+
 const dataportfolio = [
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/800/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: gtime,
+        description: "A web application that allows users to search for NBA games and events and add them to their personal calendar.",
+        link: "https://github.com/iKingSpacely/nba-event-planner",
+    },
+    {
+        img: project2,
+        description: "A web application that allows users to search for CTA train stations and view the estimated wait time for the next train.",
+        link: "https://github.com/drewjordan414/cta-train-tracker",
+    },
     // {
     //     img: "https://picsum.photos/400/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
