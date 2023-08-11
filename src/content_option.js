@@ -6,18 +6,18 @@ import project2 from "./assets/images/project2.2e277e77e2343425bda7.png";
 const logotext = "Drew";
 const meta = {
     title: "Drew Jordan",
-    description: "I’m Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
+    description: "I'm Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I'm John Doe",
     animated: {
         first: "Part time programmer",
         second: "Full time student",
         third: "Full stack developer",
         fourth: "Python and Tensorflow",
     },
-    description: "I’m Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
+    description: "I'm Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
     your_img_url: "https://drive.google.com/file/d/1AZg0AXkGnIn44fY_Z9O8SbkJ77O64fNa/view?usp=sharing",
 };
 
@@ -25,7 +25,8 @@ const dataabout = {
     title: "About me",
     aboutme: "I'm a Junior at Loyola University Chicago, pursuing a double major in Cybersecurity and Psychology. I'm incredibly passionate about exploring the intricate relationshipbetween technology and human behavior. While my academic focus lies in cybersecurity and psychology, my curiosity and eagerness to learn haveled me to delve into the world of web development. As a soon-to-be full-stack web developer, I have honed my skills in Python and gained valuable experience in creating robust and dynamic web applications and other programs. I believe that combining my knowledge of cybersecurity and psychology with my web development expertise allows me to approach projects from a unique perspective, ensuring that user experiences are not only seamless and visually appealing but also secure and tailored to human needs. This portfolio website serves as a testament to my journey so far, showcasing the projects I've worked on and the skills I've acquired.",
 };
-const worktimeline = [{
+const worktimeline = [
+    {
         jobtitle: "Northwestern University Full Stack Bootcamp",
         where: "Chicago, IL",
         date: "2023",
