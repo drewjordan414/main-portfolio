@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05faf913-a645-4ede-a350-2ad593594508/deploy-status)](https://app.netlify.com/sites/drewjordan/deploys)
+
 ### Description
 
 A simple portfolio built with React. 
