@@ -156,9 +156,9 @@ const contactConfig = {
     description: "Please feel free to contact me if you have any questions or would like to work together on a project. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    SERVICE_ID: "service_q80neuc",
+    TEMPLATE_ID: "template_b7sm3mh",
+    USER_ID: "KxU94qBItBG4HGZLs",
 };
 
 const socialprofils = {
