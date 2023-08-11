@@ -1,5 +1,6 @@
 import gtime from "./assets/images/gtimeplanner.e3ee245b2567653384ad.png";
 import project2 from "./assets/images/project2.2e277e77e2343425bda7.png";
+import fridge from "./assets/images/landing-page.gif";
 
 
 
@@ -98,11 +99,11 @@ const dataportfolio = [
         description: "A web application that allows users to search for CTA train stations and view the estimated wait time for the next train.",
         link: "https://github.com/drewjordan414/cta-train-tracker",
     },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    {
+        img: fridge,
+        description: " A Social platform that is centered around small groups, The Fridge is the place to post important updates, notices, and achievements.",
+        link: "https://github.com/MattChiaro/the-fridge",
+    },
     // {
     //     img: "https://picsum.photos/400/600/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
