@@ -9,7 +9,7 @@ A simple portfolio built with React.
 
 - Fully Responsive
 - Multi-Page Layout
-- Contact Form With EmailJs
+- Contact Form With Formspree
 - React-Bootstrap
 
 ### Setup
