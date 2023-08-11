@@ -61,7 +61,7 @@ const Headermain = () => {
               <a href={socialprofils.twitter}>Twitter</a>
               <a href={socialprofils.linkedin}>Linkedin</a>
             </div>
-            <p className="copyright m-0">copyright __ {logotext}</p>
+            <p className="copyright m-0">Built with React by {logotext}</p>
           </div>
         </div>
       </header>
