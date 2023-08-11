@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ce6092d.css",
+    "main.js": "/static/js/main.a5b8a3e2.js",
+    "static/media/project2.png": "/static/media/project2.2e277e77e2343425bda7.2e277e77e2343425bda7.png",
+    "static/media/pfp_use.png": "/static/media/pfp_use.5f036f1b2eda1968e93c.5f036f1b2eda1968e93c.png",
+    "static/media/gtimeplanner.png": "/static/media/gtimeplanner.e3ee245b2567653384ad.e3ee245b2567653384ad.png",
+    "index.html": "/index.html",
+    "main.3ce6092d.css.map": "/static/css/main.3ce6092d.css.map",
+    "main.a5b8a3e2.js.map": "/static/js/main.a5b8a3e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce6092d.css",
+    "static/js/main.a5b8a3e2.js"
+  ]
+}
