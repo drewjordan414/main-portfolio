@@ -73,6 +73,7 @@ const skills = [{
 ];
 
 const services = [
+    // edit the UI/UX Design to possibly be a different service
     {
         title: "UI & UX Design",
         description: "Designing intuitive user interfaces that ensure a seamless user experience. Combining aesthetics with functionality to create user-centric designs that resonate with your target audience.",
