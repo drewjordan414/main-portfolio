@@ -37,7 +37,8 @@ export const About = () => {
         </Row>
         <Row className=" sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">Work Timeline</h3>
+            {/* this is where the whitespace error is... adjust code accordingly */}
+            <h3 className="color_sec py-4">Work Timeline</h3> 
           </Col>
           <Col lg="7">
             <table className="table caption-top">
