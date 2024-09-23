@@ -7,24 +7,24 @@ import fridge from "./assets/images/landing-page.gif";
 const logotext = "Drew";
 const meta = {
     title: "Drew Jordan",
-    description: "I'm Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
+    description: "I'm Drew Jordan a Full stack devloper currently studying Cybersecurity and Psychology at Loyola University Chicago.",
 };
 
 const introdata = {
-    title: "I'm John Doe",
+    // title: "I'm John Doe",
     animated: {
         first: "Part time programmer",
         second: "Full time student",
         third: "Full stack developer",
-        fourth: "Python and Tensorflow",
+        // fourth: "Python and Tensorflow",
     },
-    description: "I'm Drew Jordan a Full stack devloper, currently studying Cybersecurity and Psychology at Loyola University Chicago.",
+    description: "I'm Drew Jordan a Full stack devloper currently studying Cybersecurity and Psychology at Loyola University Chicago.",
     your_img_url: "https://drive.google.com/file/d/1AZg0AXkGnIn44fY_Z9O8SbkJ77O64fNa/view?usp=sharing",
 };
 
 const dataabout = {
     title: "About me",
-    aboutme: "I'm a senior at Loyola University Chicago, majoring in Cybersecurity with a minor in Psychology. My passion lies in building and experimenting with cybersecurity tools, both in my professional work and through extensive home lab projects. During my internship as a SOC Analyst, I developed and tested security alerts, honed my skills in network defense, and gained hands-on experience with industry tools. This hands-on work drives my curiosity to explore vulnerabilities and defenses, allowing me to continuously improve my skills. In addition to cybersecurity, I also have experience in web development, particularly with full-stack applications using Python and JavaScript. My technical background enables me to bridge security with development, ensuring that the applications I build are not only functional and user-friendly, but also secure.",
+    aboutme: "I'm a senior at Loyola University Chicago majoring in Cybersecurity with a minor in Psychology. My passion lies in building and experimenting with cybersecurity tools, both in my professional work and through extensive home lab projects. During my internship as a SOC Analyst, I developed and tested security alerts, honed my skills in network defense, and gained hands-on experience with industry tools. This hands-on work drives my curiosity to explore vulnerabilities and defenses, allowing me to continuously improve my skills. In addition to cybersecurity, I also have experience in web development, particularly with full-stack applications using Python and JavaScript. My technical background enables me to bridge security with development, ensuring that the applications I build are not only functional and user-friendly, but also secure.",
 };
 const worktimeline = [
     {
@@ -42,11 +42,6 @@ const worktimeline = [
         where: "Loyola University Chicago",
         date: "2021-2024",
     },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "ALquds",
-    //     date: "2019",
-    // },
 ];
 
 const skills = [{
