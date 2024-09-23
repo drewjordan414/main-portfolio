@@ -24,9 +24,14 @@ const introdata = {
 
 const dataabout = {
     title: "About me",
-    aboutme: "I'm a Junior at Loyola University Chicago, pursuing a double major in Cybersecurity and Psychology. I'm incredibly passionate about exploring the intricate relationshipbetween technology and human behavior. While my academic focus lies in cybersecurity and psychology, my curiosity and eagerness to learn haveled me to delve into the world of web development. As a soon-to-be full-stack web developer, I have honed my skills in Python and gained valuable experience in creating robust and dynamic web applications and other programs. I believe that combining my knowledge of cybersecurity and psychology with my web development expertise allows me to approach projects from a unique perspective, ensuring that user experiences are not only seamless and visually appealing but also secure and tailored to human needs. This portfolio website serves as a testament to my journey so far, showcasing the projects I've worked on and the skills I've acquired.",
+    aboutme: "I'm a senior at Loyola University Chicago, majoring in Cybersecurity with a minor in Psychology. My passion lies in building and experimenting with cybersecurity tools, both in my professional work and through extensive home lab projects. During my internship as a SOC Analyst, I developed and tested security alerts, honed my skills in network defense, and gained hands-on experience with industry tools. This hands-on work drives my curiosity to explore vulnerabilities and defenses, allowing me to continuously improve my skills. In addition to cybersecurity, I also have experience in web development, particularly with full-stack applications using Python and JavaScript. My technical background enables me to bridge security with development, ensuring that the applications I build are not only functional and user-friendly, but also secure.",
 };
 const worktimeline = [
+    {
+        jobtitle: "SOC Analyst Intern at Discover Financial Services",
+        where: "Riverwoods, IL",
+        date: "Summer 2024",
+    },
     {
         jobtitle: "Northwestern University Full Stack Bootcamp",
         where: "Chicago, IL",
@@ -35,7 +40,7 @@ const worktimeline = [
     {
         jobtitle: "IT Support Specialist",
         where: "Loyola University Chicago",
-        date: "2021-2023",
+        date: "2021-2024",
     },
     // {
     //     jobtitle: "Designer of week",
@@ -45,28 +50,28 @@ const worktimeline = [
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Front-End and Back-End Development",
         value: 90,
     },
     {
-        name: "Flask",
-        value: 85,
-    },
-    {
-        name: "Javascript",
+        name: "Incident Response",
         value: 80,
     },
     {
-        name: "React",
+        name: "Intrusion Detection and Security Monitoring",
         value: 80,
     },
     {
-        name: "Jquery",
-        value: 85,
-    },
-    {
-        name: "Linux",
+        name: "IT Support",
         value: 90,
+    },
+    {
+        name: "Hardware and Networking",
+        value: 85,
+    },
+    {
+        name: "Operating Systems",
+        value: 95,
     },
     
 
@@ -75,8 +80,8 @@ const skills = [{
 const services = [
     // edit the UI/UX Design to possibly be a different service
     {
-        title: "UI & UX Design",
-        description: "Designing intuitive user interfaces that ensure a seamless user experience. Combining aesthetics with functionality to create user-centric designs that resonate with your target audience.",
+        title: "Vulnerability Assessment and Penetration Testing",
+        description: "Identifying and addressing security vulnerabilities in web applications and networks. Conducting penetration tests to simulate real-world cyberattacks and ensure that systems are secure.",
     },
     {
         title: "Python Development",

@@ -46,8 +46,18 @@ const Headermain = () => {
                   <li className="menu_item">
                     <Link onClick={handleToggle} to="/contact" className="my-3"> Contact</Link>
                   </li>
-                  <li className="menu_item">
+                  {/* <li className="menu_item">
                     <a href="https://drive.google.com/uc?export=download&id=1y9idhA19cxSn8i8SAbu4QccQUHlJIwt8" className="my-3" onClick={handleToggle} download>Resume</a>
+                  </li> */}
+                  <li className="menu_item">
+                    <a
+                      href="/assets/ANDREW_JORDAN_Resume.pdf"
+                      className="my-3"
+                      onClick={handleToggle}
+                      download
+                    >
+                      Resume
+                    </a>
                   </li>
 
                 </ul>
@@ -56,10 +66,10 @@ const Headermain = () => {
           </div>
           <div className="menu_footer d-flex flex-column flex-md-row justify-content-between align-items-md-center position-absolute w-100 p-3">
             <div className="d-flex">
-              <a href={socialprofils.facebook}>Facebook</a>
-              <a href={socialprofils.github}>Github</a>
-              <a href={socialprofils.twitter}>Twitter</a>
-              <a href={socialprofils.linkedin}>Linkedin</a>
+              <a href={socialprofils.facebook} target="_blank" rel="noopener noreferrer">Facebook</a>
+              <a href={socialprofils.github} target="_blank" rel="noopener noreferrer">Github</a>
+              <a href={socialprofils.twitter} target="_blank" rel="noopener noreferrer">Twitter</a>
+              <a href={socialprofils.linkedin} target="_blank" rel="noopener noreferrer">Linkedin</a>
             </div>
             <p className="copyright m-0">Built with React by {logotext}</p>
           </div>
